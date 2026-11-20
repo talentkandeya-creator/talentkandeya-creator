@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Talent Kandeya 👋
 
-<!--
-**talentkandeya-creator/talentkandeya-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building projects, learning continuously, and exploring new ideas through code.
+
+## Interests
+
+- Software development
+- Learning new technologies
+- Building practical tools
+- Open-source collaboration
